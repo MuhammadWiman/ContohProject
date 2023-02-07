@@ -1,0 +1,16 @@
+D:\Kumpulan Tugas Kampus\belajar_Looping\bin\Debug\net5.0\belajar_Looping.exe
+D:\Kumpulan Tugas Kampus\belajar_Looping\bin\Debug\net5.0\belajar_Looping.deps.json
+D:\Kumpulan Tugas Kampus\belajar_Looping\bin\Debug\net5.0\belajar_Looping.runtimeconfig.json
+D:\Kumpulan Tugas Kampus\belajar_Looping\bin\Debug\net5.0\belajar_Looping.runtimeconfig.dev.json
+D:\Kumpulan Tugas Kampus\belajar_Looping\bin\Debug\net5.0\belajar_Looping.dll
+D:\Kumpulan Tugas Kampus\belajar_Looping\bin\Debug\net5.0\ref\belajar_Looping.dll
+D:\Kumpulan Tugas Kampus\belajar_Looping\bin\Debug\net5.0\belajar_Looping.pdb
+D:\Kumpulan Tugas Kampus\belajar_Looping\obj\Debug\net5.0\belajar_Looping.csprojAssemblyReference.cache
+D:\Kumpulan Tugas Kampus\belajar_Looping\obj\Debug\net5.0\belajar_Looping.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kumpulan Tugas Kampus\belajar_Looping\obj\Debug\net5.0\belajar_Looping.AssemblyInfoInputs.cache
+D:\Kumpulan Tugas Kampus\belajar_Looping\obj\Debug\net5.0\belajar_Looping.AssemblyInfo.cs
+D:\Kumpulan Tugas Kampus\belajar_Looping\obj\Debug\net5.0\belajar_Looping.csproj.CoreCompileInputs.cache
+D:\Kumpulan Tugas Kampus\belajar_Looping\obj\Debug\net5.0\belajar_Looping.dll
+D:\Kumpulan Tugas Kampus\belajar_Looping\obj\Debug\net5.0\ref\belajar_Looping.dll
+D:\Kumpulan Tugas Kampus\belajar_Looping\obj\Debug\net5.0\belajar_Looping.pdb
+D:\Kumpulan Tugas Kampus\belajar_Looping\obj\Debug\net5.0\belajar_Looping.genruntimeconfig.cache
